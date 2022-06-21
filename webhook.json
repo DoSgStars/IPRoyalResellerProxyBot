@@ -1,0 +1,9 @@
+{
+    "content": "``.data``          -          View Your Data in GB\n\n``.presets``          -          See available Website Presets\n\n``.countries``          -          See the list of countries available\n\n``.generate``          -          Generates a proxy list\n\n**STICKY**\n``.generate sticky de 1000`` - Generates 1000 sticky german proxies\n``.generate sticky us 1000`` - Generates 1000 sticky us proxies\n``.generate sticky ftl 1000`` - Generates 1000 sticky footlockereu proxies\n\n**ROTATING**\n      ``.generate rotating de 1000`` - Generates 1000 rotating german proxies\n      ``.generate rotating us 1000`` - Generates 1000 rotating usa proxies\n``.generate rotating ftl 1000`` - Generates 1000 rotating footlocker EU proxies",
+    "color": 9847296,
+    "author": {
+      "name": "COMMANDS" },
+    "footer": {
+      "text": "Proxies"
+    }
+}
