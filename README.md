@@ -1,7 +1,7 @@
 # IPRoyalResellerProxyBot
 Discord bot what will allow IPRoyal resellers to generate proxies!
 
-To make bot running you have to buy API access (200USD)
+To get access to the discord bots & the API key you would need to deposit 200$ into your IPRoyal account, after that let the owner or support team know and we can proceed.
 
 We at IPRoyal offer discord bot for resellers that can manage all necessary api aspects.
 Each bot costs 50€, this includes a free setup.
